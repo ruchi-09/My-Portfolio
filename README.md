@@ -12,16 +12,14 @@ Some screenshots of the project:-
 ![Screenshot (6)](https://github.com/ruchi-09/My-Portfolio/assets/146486493/4afa9f60-2fc3-4ed4-8e68-0e03a5cbeeff)
 
 Technologies used:-
-HTML
-CSS
+HTML,
+CSS, &
 Javascript
 
 Tools Required:-
-Visual Studio Code
+Visual Studio Code &
 Eclipse EEE
 
 "Suggestions and project improvement ideas are welcomed!"
-Thanks a lot,
-Ruchika Sirsikar
 
 
